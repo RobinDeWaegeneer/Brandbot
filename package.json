@@ -1,0 +1,25 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BrandBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mathjs": "^6.0.5",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.2.0",
+    "enmap": "^5.2.9",
+    "mathjs": "^7.0.1",
+    "mongoose": "^5.11.17",
+    "mysql": "^2.18.1",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "translate-google": "^1.4.3"
+  },
+  "devDependencies": {}
+}

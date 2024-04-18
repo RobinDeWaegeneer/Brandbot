@@ -1,0 +1,41 @@
+Discord Bot Ideas:
+
+-Name: Brand Bot
+
+-Emojii: mini cars , wheels, engine image , brands: bmw.mercedes,tesla
+
+-APi: Autobedrijven status
+
+-rolls: based on car ideas and brands (exclusive text channels for brands)
+
+-ping message: The {NameBot} drives at {ping}ms
+
+-Engine Points for rolls---> in exclusive channels
+
+!commands general:
+    -help,developers,badges/roles, usersettings,
+  
+!command economy:
+    -Daily and weekly points, Baltop, roles shop,
+  
+!commands info:
+    -BotInfo, serverinfo, profile , ping
+  
+!commands fun
+    -challenges:
+>
+>
+>
+>
+>
+>
+>.... etc
+
+!commands tools:
+   -Math
+
+!commands Brands
+   -bmwstats,teslastats,...
+
+-text channels: Counting, one word story, exclusive role text channel brands , general
+
